@@ -15,9 +15,6 @@ body {
     height: 15%;
     padding: 3%;
     text-align: center;
-  
-    margin-top: auto;
-    margin-bottom: 5%;
   }
 
   img {
@@ -46,7 +43,7 @@ body {
   }
   h2 {
     font-weight: bold;
-    margin: 50px 0 0  0 ;
+    margin: 25px 0 0  0 ;
   }
   li p {
     line-height: 2em;
