@@ -1,7 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
     font-family: 'Montserrat', sans-serif;
     background: linear-gradient(lightgrey);
   }
+  
   header {
     background: purple;
     width: auto;
@@ -12,14 +19,7 @@ body {
     margin-top: auto;
     margin-bottom: 5%;
   }
-  
-  .meu-cabecalho {
-   width: auto;
-  margin-left: 23%;
-  margin-top: -3%;
- 
-  
-  }
+
   img {
     margin: 5% 0 0 0;
     position: relative;
